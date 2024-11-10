@@ -1,0 +1,38 @@
+* {
+    background-color: rgb(255, 255, 255);
+}
+
+header {
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.contact {
+    font-size: 14px;
+    color: black;
+    margin-top: -10px;
+}
+
+.link {
+    font-size: 14px;
+}
+
+main div p {
+    margin: 0px 50px;
+}
+
+main div p:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 0px 10px gray;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
