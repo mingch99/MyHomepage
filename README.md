@@ -1,2 +1,2 @@
-# repo-exercise updated!
+# My Homepage updated!
 exercise on Coursera
